@@ -21,4 +21,4 @@ Getting Started
 #### Run the app
 `$ expo start`
 
-
+Click Run on Android/iOS simulator.
