@@ -30,6 +30,6 @@ Click Run on Android/iOS simulator.
 Download Expo [here](https://play.google.com/store/apps/details?id=host.exp.exponent)
 
 Scan QR Code below:
-[QR](screen.png)
+![QR](screen.png)
 
 
