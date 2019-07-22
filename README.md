@@ -28,7 +28,8 @@ Click Run on Android/iOS simulator.
 #### Live Preview
 
 Download Expo [here](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
 Scan QR Code below:
-[QR](screen)
+[QR](screen.png)
 
 
