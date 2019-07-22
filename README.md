@@ -1,5 +1,7 @@
 # News app with React Native
 
+![Demo](demo-news.gif)
+
 Getting Started
 ------
 
