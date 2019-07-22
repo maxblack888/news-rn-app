@@ -11,8 +11,11 @@ Getting Started
 
 #### Install dependencies
 `$ npm install -g create-react-native-app`
+
 `$ npm install -g expo-cli`
+
 `$ npm install`
+
 `$ yarn add redux react-redux redux-thunk react-native-router-flux react-native-elements react-native-size-matters axios moment`
 
 #### Run the app
